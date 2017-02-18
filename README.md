@@ -6,3 +6,4 @@
 - [Manipulação de Eventos](../master/handling-events.md)
 - [Renderização Condicional](../master/conditional-rendering.md)
 - [Formulários](../master/forms.md)
+- [Lifting State Up](../master/lifting-state-up.md)
